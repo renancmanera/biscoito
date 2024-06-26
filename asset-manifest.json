@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/biscoito/static/css/main.8407d88f.css",
+    "main.js": "/biscoito/static/js/main.d8c74c2c.js",
+    "static/media/biscoito.png": "/biscoito/static/media/biscoito.10574f4adcfea1c07e1c.png",
+    "index.html": "/biscoito/index.html",
+    "main.8407d88f.css.map": "/biscoito/static/css/main.8407d88f.css.map",
+    "main.d8c74c2c.js.map": "/biscoito/static/js/main.d8c74c2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8407d88f.css",
+    "static/js/main.d8c74c2c.js"
+  ]
+}
